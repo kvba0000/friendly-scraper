@@ -1,4 +1,4 @@
-<img src="/icon.png" alt="Icon" height="150" />
+<img src="assets/icon.png" alt="Icon" height="150" />
 
 # 🤖 Friendly Scraper
 > [!NOTE]
